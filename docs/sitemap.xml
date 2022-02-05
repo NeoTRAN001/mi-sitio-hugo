@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/</loc>
     <lastmod>2022-02-05T12:59:19-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/posts/</loc>
     <lastmod>2022-02-05T12:59:19-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/segundo-post/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/posts/segundo-post/</loc>
     <lastmod>2022-02-05T12:59:19-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/posts/primer-post/</loc>
     <lastmod>2022-02-05T12:59:10-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/contacto/</loc>
     <lastmod>2022-02-05T12:57:12-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://neotran001.github.io/mi-sitio-hugo/tags/</loc>
   </url>
   
 </urlset>
